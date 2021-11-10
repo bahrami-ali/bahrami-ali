@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ali Bahrami
+- 👀 I’m interested in all things data
+- 🌱 I’m currently learning python, pandas, sql, and data visualization
+- 📫 Reach me at eab680@nyu.edu
