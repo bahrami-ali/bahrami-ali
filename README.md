@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ali Bahrami
-- 👀 I’m interested in all things, projects, and jobs data-related
+- 👀 I’m interested in all things, projects, and jobs datalated
 - 🌱 I’m currently learning python, sql, data visualization, and machine learning
 - 📫 Reach me at ali.bahrami@nyu.edu
